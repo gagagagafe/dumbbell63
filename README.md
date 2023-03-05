@@ -52,4 +52,4 @@ GL516ケース対応の60%キーボードです。
 
 　https://github.com/gagagagafe/dumbbell63
 
-　　#VIAおよびREMAPに対応予定です。
+　　#VIAおよびREMAPに対応済。
