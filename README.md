@@ -50,5 +50,7 @@ GL516ケース対応の60%キーボードです。
 
 ◆ファームウェアについて
 　下記のいずれかをご利用ください。
+ 
 　gl516_dumbbell63_default.hex　
+ 
 　gl516_dumbbell63_via.hex（VIA／REMAP対応）
